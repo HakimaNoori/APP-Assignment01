@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    padding: 15xp;
+    background-color: rgb(138, 174, 240);
+}
+
+.title {
+    color: blue;
+    font-size: 50px;
+    text-align: center;
+    border: 500px;
+}
+
+.container {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.article {
+    margin: 1% 58% 1% 28%;
+    margin: 20px;
+    padding: 10px;
+    background-color: white;
+    font-size: 15px;
+}
+
+.img {
+    width: 100%;
+}
+
+.button {
+    background-color: gray;
+    border: 100%;
+    text-align: center;
+}
+
+.image {
+    width: 30px;
+    height: 30px;
+    background-color: gray;
+}

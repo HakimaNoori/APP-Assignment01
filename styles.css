@@ -3,9 +3,14 @@
     padding: 0;
 }
 
-.main {
+body {
     padding: 15xp;
-    background-color: rgb(138, 174, 240);
+    background-color: rgb(104, 171, 197);
+}
+
+.header {
+    color: rgb(0, 17, 255);
+    text-align: center;
 }
 
 .title {
@@ -18,28 +23,37 @@
 .container {
     width: 50%;
     margin: 0 auto;
+
 }
 
-.article {
-    margin: 1% 58% 1% 28%;
+div {
     margin: 20px;
-    padding: 10px;
+    padding: 20px;
     background-color: white;
     font-size: 15px;
+    padding-left: 20px;
+}
+
+h2 {
+    padding-top: 25px;
+    padding-bottom: 15px;
+}
+
+p {
+    padding-top: 20px;
+}
+
+ul {
+    padding-left: 30px;
 }
 
 .img {
     width: 100%;
 }
 
-.button {
+footer {
     background-color: gray;
     border: 100%;
     text-align: center;
-}
-
-.image {
-    width: 30px;
-    height: 30px;
-    background-color: gray;
+    margin-bottom: 20px;
 }
